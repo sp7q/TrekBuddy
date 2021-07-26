@@ -1,0 +1,2 @@
+# TrekBuddy
+CW QRP transceiver

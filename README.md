@@ -1,7 +1,7 @@
 # TrekBuddy
 CW QRP transceiver 
 
-There is no perfect transceiver for an amateur radio, otherwise we should have as many radio models as amateurs around the world. Also electronic part becomes more and more hard to build for elmers in their workshops. I would to create device that maybe is not the simplest one but gives a lot of flexibility, software is open and well-described, which makes it easy to adapt this project to your own needs even for non-programmers.
+There is no perfect transceiver for an amateur radio, otherwise we should have as many radio models as amateurs around the world. Also electronic part becomes more and more hard to build for elmers in their workshops. I would to create device that maybe is not the simplest one but gives a lot of flexibility, software is open and well-described, which makes it easy to adapt to your own needs even for non-programmers.
 
 Assumtions : 
   1. Modern receiver - QCX style

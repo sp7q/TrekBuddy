@@ -29,4 +29,4 @@ Milestones
   6. GPS capability - to synchronize time and get position/GRID for SOTA/POTA/WWFF activations
 
 Worklog
-  2021-08-13 - QCX+ assembled and align
+  2021-08-13 - QCX+ assembled and align https://photos.app.goo.gl/6mqfNLwnRvLMUszh9

@@ -27,3 +27,6 @@ Milestones
   4. Add DL2MAN board, add 5 band capability and make them operational
   5. Make keyer part operational - as minimum IAMBIC B
   6. GPS capability - to synchronize time and get position/GRID for SOTA/POTA/WWFF activations
+
+Worklog
+  2021-08-13 - QCX+ assembled and align

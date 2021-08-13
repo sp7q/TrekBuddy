@@ -20,7 +20,7 @@ Assumtions :
   11. This should be as number 1 - software fully avialable as OpenSource to give opportunity to enable the further development of the project ar align to own needs
 
 Milestones
-  1. Use QCX as base, remove original uC and use connect TrekBuddy instead
+  1. Use QCX as base, remove original uC and use connect TrekBuddy instead - DONE (second hand QCX+ for 20$ :-) )
   2. Make receiver operational - sytheiser should give 2 signals 90 degree shifted
   3. Make audio recorder operational
   3. Make TX operation with stright key
